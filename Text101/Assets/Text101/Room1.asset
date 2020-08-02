@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 70e4ebb80a702c44b9b7cc9662df3532, type: 3}
-  m_Name: StartingState
+  m_Name: Room1
   m_EditorClassIdentifier: 
-  StoryText: Hello
+  StoryText: Room 1
   NextStates:
-  - {fileID: 11400000, guid: fc565b5a7abeeab44a4a01faef128535, type: 2}
+  - {fileID: 11400000, guid: 11d23dff5c627d843b556fd08cec2405, type: 2}
   - {fileID: 11400000, guid: f2083b3afd5a9be4ba492bf0bf5eb5e9, type: 2}
   - {fileID: 11400000, guid: 1ad1403cdce38bf46b75b92a2a70413c, type: 2}
