@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70e4ebb80a702c44b9b7cc9662df3532, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  StoryText: State A1 outside Hanger
+  NextStates:
+  - {fileID: 11400000, guid: 77e22a78f9ae1c64b9c0583bcafb6c8b, type: 2}
+  - {fileID: 11400000, guid: 3b1a00f4c5b6b904399eccc65d7193eb, type: 2}

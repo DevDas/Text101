@@ -407,7 +407,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -35.5, y: -66.805}
-  m_SizeDelta: {x: 1623.345, y: 472.6101}
+  m_SizeDelta: {x: 1623.345, y: 472.6098}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &501717365
 MonoBehaviour:
@@ -430,7 +430,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 99
+    m_FontSize: 48
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -497,7 +497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TextComponent: {fileID: 501717365}
-  StartingState: {fileID: 11400000, guid: 11d23dff5c627d843b556fd08cec2405, type: 2}
+  StartingState: {fileID: 11400000, guid: 77e22a78f9ae1c64b9c0583bcafb6c8b, type: 2}
 --- !u!1 &1325466064
 GameObject:
   m_ObjectHideFlags: 0

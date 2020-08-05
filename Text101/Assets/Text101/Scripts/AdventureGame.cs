@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -39,5 +40,10 @@ public class AdventureGame : MonoBehaviour
             state = NextStates[2];
         }
         TextComponent.text = state.GetStateStory();
+
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            state = NextStates.Last();
+        }
     }
 }

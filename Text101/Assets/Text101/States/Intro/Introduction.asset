@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 70e4ebb80a702c44b9b7cc9662df3532, type: 3}
-  m_Name: Room2
+  m_Name: Introduction
   m_EditorClassIdentifier: 
-  StoryText: Room 2
+  StoryText: "Welcome To The Jungle,\n\nChoose Your Own Adventure\n\neach State You
+    Need To Choose By \n1,\n2,\n3 \nq (quit Antime)"
   NextStates:
   - {fileID: 11400000, guid: 11d23dff5c627d843b556fd08cec2405, type: 2}
-  - {fileID: 11400000, guid: fc565b5a7abeeab44a4a01faef128535, type: 2}
-  - {fileID: 11400000, guid: 1ad1403cdce38bf46b75b92a2a70413c, type: 2}
+  - {fileID: 11400000, guid: 3b1a00f4c5b6b904399eccc65d7193eb, type: 2}
