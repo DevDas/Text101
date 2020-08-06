@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70e4ebb80a702c44b9b7cc9662df3532, type: 3}
   m_Name: B4
   m_EditorClassIdentifier: 
-  StoryText: State A1 outside Hanger
+  StoryText: Welcome To Gangtok
   NextStates:
-  - {fileID: 11400000, guid: 77e22a78f9ae1c64b9c0583bcafb6c8b, type: 2}
   - {fileID: 11400000, guid: 3b1a00f4c5b6b904399eccc65d7193eb, type: 2}
